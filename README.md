@@ -11,3 +11,6 @@ move the Snake around. On his adventure, he has to eat the food to grow stronger
 
 ## Notes
 - I used Python Turtle Graphics for this program.
+
+## Updates
+- 07/26 Added all-time high score function.
